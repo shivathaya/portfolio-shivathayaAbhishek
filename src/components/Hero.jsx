@@ -65,13 +65,14 @@ export default function Hero() {
         {/* Photo + Name + Title + Badge row */}
         <div style={{ display: "flex", alignItems: "center", gap: "24px", marginBottom: "28px", flexWrap: "wrap" }}>
           <img
-            src="/photo.png"
+            src="/photo.jpeg"
             alt="Abhishek Shivathaya"
             style={{
-              width: "88px",
-              height: "88px",
+              width: "100px",
+              height: "100px",
               borderRadius: "50%",
               objectFit: "cover",
+			  objectPosition: "center 20%",
               flexShrink: 0,
               border: "2px solid #E8E8E5"
             }}

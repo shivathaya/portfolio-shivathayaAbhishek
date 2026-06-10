@@ -5,7 +5,7 @@ export const meta = {
   title: "Java Backend Developer",
   tagline: "Building resilient banking systems at scale.",
   about:
-    "3+ years engineering core banking applications at TCS, working on high-throughput microservices for Saudi National Bank. I care about clean APIs, observable systems, and software that survives production.",
+    "Backend engineer with 3+ years building core banking systems that don't fail. I've shipped 18+ change requests on a live platform, migrated Oracle to PostgreSQL without downtime, and architected event-driven services handling real financial transactions at scale. When I'm not writing code, I'm either on my motorbike exploring a road I've never taken or planning the next place on my travel list — I believe the best engineers are the ones who stay curious, on and off the screen.",
   location: "Bengaluru, India",
   available: true, // shows the green "Open to work" badge
 };
